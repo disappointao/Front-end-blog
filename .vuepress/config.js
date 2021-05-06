@@ -2,6 +2,7 @@ module.exports = {
     "title": "刘创凹的博客",
     "description": "码字中...",
     "dest": "public",
+    "base":"/Front-end-blog/",
     "head": [
         [
             "link",
